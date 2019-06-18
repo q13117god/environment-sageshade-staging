@@ -7,6 +7,9 @@ dependencies:
   name: exposecontroller
   repository: http://chartmuseum.jenkins-x.io
   version: 2.3.89
+- name: ng-golang-2019061801
+  repository: http://jenkins-x-chartmuseum:8080
+  version: 0.0.1
 - name: ng-golang-http-80-2019-06-17-01
   repository: http://jenkins-x-chartmuseum:8080
   version: 0.0.2
